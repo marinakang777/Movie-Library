@@ -1,0 +1,3 @@
+Откройте терминал и выполните:
+
+pip install tkinter json
